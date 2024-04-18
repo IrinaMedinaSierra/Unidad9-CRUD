@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb8e72f6-9a84-4757-94d3-0be6dd817ed2" name="Changes" comment="primer commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad9_1R/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad9_7R/Controller/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad9_7R/Modell/Socio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controller/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modell/Cola.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad9_1R/Cola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modell/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad9_1R/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad9_7R/Controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad9_7R/Controller/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad9_7R/Modell/Socio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad9_7R/Modell/Socio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Controller/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Controller/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Modell/Cola.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Modell/Cola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Modell/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Modell/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_7R/Controller/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_7R/Controller/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_7R/Modell/Socio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_7R/Modell/Socio.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fBz1xNtBfMtcAG8bqfyBDEVI7o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,12 +50,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/usr/local/tomcat/webapps/Unidad 9/Modell",
+    "last_opened_file_path": "C:/Users/programador/IdeaProjects/Unidad9",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,6 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1713289048108</updated>
       <workItem from="1713289049343" duration="10319000" />
+      <workItem from="1713424513292" duration="358000" />
+      <workItem from="1713425991711" duration="3690000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <option name="closed" value="true" />
