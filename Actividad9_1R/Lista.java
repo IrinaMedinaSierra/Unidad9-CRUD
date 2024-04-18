@@ -1,8 +1,8 @@
-package Modell;
+package Actividad9_1R.Modell;
 
 import java.util.Arrays;
 
-public class Lista implements Cola{
+public class Lista implements Actividad9_1R.Modell.Cola {
 
     Integer[] tabla;
 

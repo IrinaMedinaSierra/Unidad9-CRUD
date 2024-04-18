@@ -1,4 +1,4 @@
-package Modell;
+package Actividad9_1R.Modell;
 
 public interface Cola {
 
