@@ -33,25 +33,38 @@ public class Socio  implements Comparable{
         return (int) this.fechaNacimiento.until(LocalDate.now(),ChronoUnit.YEARS);
     }
 
-//    public int compareTo(Object oj){
-//        int resultado;
-//        //hacer un casting del tipo objeto a tipo Socio
-//        Socio s=(Socio) oj;
-//        if (this.id<s.id){
-//            resultado =-1;
-//        }else if (this.id>s.id){
-//            resultado=1;
-//        }else {
-//            resultado=0;
-//        }
-//        return resultado;
+    public int compareTo(Object oj){
+        int resultado;
+        //hacer un casting del tipo objeto a tipo Socio
+        Socio s=(Socio) oj;
+        if (this.id<s.id){
+            resultado =-1;
+        }else if (this.id>s.id){
+            resultado=1;
+        }else {
+            resultado=0;
+        }
+        return resultado;
+    }
+
+//    public int compareTo(Object otro){
+//        int resulado;
+//        Socio otroS=(Socio) otro;
+//        resulado=this.nombre.compareTo(otroS.nombre);
+//        return resulado;
 //    }
 
-    public int compareTo(Object otro){
-        int resulado;
-        Socio otroS=(Socio) otro;
-        resulado=this.nombre.compareTo(otroS.nombre);
-        return resulado;
+
+    public int getId() {
+        return id;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public LocalDate getFechaNacimiento() {
+        return fechaNacimiento;
     }
 
     @Override

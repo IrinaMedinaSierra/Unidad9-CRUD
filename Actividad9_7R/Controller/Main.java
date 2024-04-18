@@ -39,20 +39,29 @@ public class Main {
         switch (opcion){
             case 1-> {
                 int idT=leerID();
-                mostrarSln("Nombre ->");
-                String nomT=sn.next();sn.nextLine();
-                mostrarSln("Fecha de Nacimiento (AAAA-MM-DD");
-                String fnT= sn.next();sn.nextLine();
-                Socio socio1=new Socio(idT,nomT,fnT);
-                lista.add(socio1);
-                menu();
+                lista.add(alta(idT));
+                listar();
             }
             case 2->{
-                for (Socio e:lista){
-                    mostrar(e.toString()+"\n");
-                }
-                menu();
+              listar();
             }
+            case 3->{
+                //Para buscar un elemento y nos diga su posicion, utilizar si es de tipo String indexOf
+                int idA= leerID();
+                int posicion=0;
+                System.out.println(idA);
+                for (Socio e:lista) {
+                    if (e.getId() == idA) {
+                        System.out.println(e.toString());
+                        posicion=lista.indexOf(e);
+                        mostrar("Posicion->"+posicion);
+                        break;
+                    }
+                }
+                Socio socioActual = lista.get(posicion);;
+
+            }
+
 
         }
 
@@ -71,5 +80,26 @@ public class Main {
         mostrarSln("Indique el Id del Socio->");
         idLeido=sn.nextInt();
         return idLeido;
+    }
+    public static Socio alta(int idT){
+
+        mostrarSln("Nombre ->");
+        String nomT=sn.next();sn.nextLine();
+        mostrarSln("Fecha de Nacimiento (AAAA-MM-DD");
+        String fnT= sn.next();sn.nextLine();
+        Socio socio1=new Socio(idT,nomT,fnT);
+        return socio1;
+    }
+
+    public static void actualizar(Socio socioActual,int posicion){
+       Socio socioActualizado=alta(socioActual.getId());
+       lista.get(posicion)
+
+
+    }
+    public static void listar(){
+        for (Socio e:lista){
+            mostrar(e.toString()+"\n");
+        }
     }
 }
