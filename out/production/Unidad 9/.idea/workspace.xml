@@ -7,6 +7,15 @@
     <list default="true" id="cb8e72f6-9a84-4757-94d3-0be6dd817ed2" name="Changes" comment="primer commit">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad9_7R/Controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad9_7R/Controller/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad9_7R/Modell/Socio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad9_7R/Modell/Socio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Controller/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Controller/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Modell/Cola.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Modell/Cola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Modell/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_1R/Modell/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_7R/Controller/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_7R/Controller/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_7R/Modell/Socio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unidad 9/Actividad9_7R/Modell/Socio.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,27 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/usr/local/tomcat/webapps/Unidad 9/Modell",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/programador/IdeaProjects/Unidad9&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Modell" />
@@ -68,6 +77,9 @@
       <updated>1713289048108</updated>
       <workItem from="1713289049343" duration="10319000" />
       <workItem from="1713424513292" duration="358000" />
+      <workItem from="1713425991711" duration="8687000" />
+      <workItem from="1713597966780" duration="20323000" />
+      <workItem from="1713627317181" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <option name="closed" value="true" />
@@ -77,14 +89,43 @@
       <option name="project" value="LOCAL" />
       <updated>1713360707508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primer commit">
+      <option name="closed" value="true" />
+      <created>1713430166451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713430166451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit" />
     <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
